@@ -1,4 +1,4 @@
-## Hi there, I am binu
+## Hi there, I am binu 🗽⃢⃢🗿
 
 ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 
