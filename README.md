@@ -1,7 +1,4 @@
-## Hi there, I am binu 🗽⃢⃢🗿
-
-⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
-
+## gae
 <!--
 **b1inu/b1inu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
