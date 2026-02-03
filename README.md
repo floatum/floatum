@@ -24,8 +24,6 @@ My name is Muneeb Mennad, an undergraduate student at Memorial University of New
 
 🔭 I’m currently working on a terminal password manager.
 
-🌱 I’m currently learning shell scripting.
-
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
