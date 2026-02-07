@@ -29,6 +29,6 @@ I am an undergraduate student at Memorial University of Newfoundland 🇨🇦 pu
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,c,python,java,bash,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,c,golang,lua,bash,neovim,git,github" />
   </a>
 </p>
