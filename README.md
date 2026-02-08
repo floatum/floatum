@@ -18,7 +18,7 @@ My name is Muneeb Mennad.
 
 I am an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science, specializing in Smart Systems.
 
-🖥️ My interests lie in Cybersecurity, Embedded Systems, and Robotics.
+🖥️ My interests lie in Cybersecurity and Embedded Systems.
 
 ⚽ Outside of my academic and professional pursuits, I am passionate about sport, especially football.
 
