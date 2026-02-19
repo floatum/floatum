@@ -13,13 +13,13 @@
 <br>
 
 # <img src="wave.gif" width="30px"> Hello
-I am an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science.
+I am an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science
 
 I am interested in security software development
 
 I also like ricing setups
 
-I’m currently working on a terminal password manager.
+I’m currently working on a <a href=https://github.com/mnbmnd/passman.git>terminal password manager</a>
 
 # Skills
 <p align="center">
