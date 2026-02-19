@@ -13,7 +13,7 @@
 <br>
 
 # <img src="wave.gif" width="30px"> Hello
-I am an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science
+I am an undergraduate student pursuing a BSc in Computer Science
 
 I am interested in security software development
 
