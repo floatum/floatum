@@ -13,8 +13,13 @@
 <br>
 
 # <img src="wave.gif" width="30px"> Hello
+<!--
 ## 💫 About
-I am an undergraduate student pursuing a BSc in Computer Science<br><br>I am interested in security and systems programming<br><br>I’m currently working on a port scanner
+I am an undergraduate student pursuing a BSc in Computer Science<br><br>I am interested in security and systems programming<br>
+-->
+Things I am working on:
+- TUI password manager
+- Homelab
 
 
 ### 🌐 Socials
