@@ -1,4 +1,4 @@
-Hi. I am CS student at MUN. Interested in security and low level.
+Hi. I am CS student at MUN. I like low level.
 
 Some things I am working on:
 - [A TUI password manager](https://github.com/mndmnb/passman)
