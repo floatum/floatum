@@ -1,6 +1,6 @@
-Hi. I am CS student at MUN. I like low level.
+hi. still a CS student.
 
-Some things I am working on:
+few things I am working on:
 - [A TUI password manager](https://github.com/mndmnb/passman)
 - [Personal Utils](https://github.com/mndmnb/utils-for-me)
 - [My website](https://github.com/mndmnb/mndmnb.dev)
