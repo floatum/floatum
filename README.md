@@ -1,4 +1,4 @@
-hi. still a CS student.
+hi. im a CS student.
 
 few things I am working on:
 - [A TUI password manager](https://github.com/mndmnb/passman)
